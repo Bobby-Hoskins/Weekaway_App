@@ -1,14 +1,14 @@
+@import url("https://fonts.googleapis.com/css2?family=Poppins&family=Zen+Dots&display=swap");
+
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
 
-@import url("https://fonts.googleapis.com/css2?family=Lobster&family=Poppins&display=swap");
-
-:root {
+/* :root {
   --primary-dark: #001011;
   --primary-color: #1e75e7;
   --primary-accent: #64e9ee;
-}
+} */
 
 @layer base {
   html {
@@ -24,7 +24,7 @@
   }
 
   button {
-    @apply px-4 py-2 border bg-gradient-to-r from-[var(--primary-color)] to-[var(--primary-accent)] text-white;
+    @apply px-4 py-2 border bg-gradient-to-r from-PrimaryColor to-PrimaryAccent text-white;
   }
 
   h2 {
