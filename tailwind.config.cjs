@@ -10,6 +10,7 @@ module.exports = {
       },
       fontFamily: {
         h1Text: ["Zen Dots", "cursive"],
+        TitilliumWeb: ["Titillium Web", "sans-serif"],
       },
     },
   },
