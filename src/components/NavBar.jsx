@@ -50,16 +50,16 @@ const NavBar = () => {
         }
       >
         <ul className="h-full w-full text-center pt-12">
-          <li className="text-2xl py-8">
+          <li className="text-2xl font-TitilliumWeb py-8">
             <a href="#">Home</a>
           </li>
-          <li className="text-2xl py-8">
+          <li className="text-2xl font-TitilliumWeb py-8">
             <a href="#gallery">Gallery</a>
           </li>
-          <li className="text-2xl py-8">
+          <li className="text-2xl font-TitilliumWeb py-8">
             <a href="#deals">Deals</a>
           </li>
-          <li className="text-2xl py-8">
+          <li className="text-2xl font-TitilliumWeb py-8">
             <a href="#contact">Contact</a>
           </li>
         </ul>
