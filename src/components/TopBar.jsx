@@ -6,7 +6,7 @@ const TopBar = () => {
     <div className="flex justify-between items-center px-4 py-2">
       <div className="flex items-center">
         <TbPlane size={30} className="text-PrimaryDark mr-2" />
-        <h1 className="font-h1Text text-lg font-bold text-gray-700">
+        <h1 className="font-logoText text-lg font-bold text-gray-700">
           WEEKAWAY
         </h1>
       </div>

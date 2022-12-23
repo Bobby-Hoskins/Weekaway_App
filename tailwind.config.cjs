@@ -9,7 +9,8 @@ module.exports = {
         PrimaryAccent: "#64e9ee",
       },
       fontFamily: {
-        h1Text: ["Zen Dots", "cursive"],
+        logoText: ["Zen Dots", "cursive"],
+        h1Text: ["Monkirta Pursuit NC", "sans-serif"],
         TitilliumWeb: ["Titillium Web", "sans-serif"],
       },
     },
