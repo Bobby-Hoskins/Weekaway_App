@@ -4,8 +4,8 @@ import ContactPhoto from "../assets/contact.jpg";
 const Contact = () => {
   return (
     <div id="contact" className="max-w-[1140px] m-auto w-full p-4 py-16">
-      <h2 className="text-center text-gray-700">Send us a message</h2>
-      <p className="text-center text-gray-700 py-2">We're standing by</p>
+      <h2 className="text-center text-PrimaryColor">Send us a message</h2>
+      <p className="text-center text-PrimaryColor py-2">We're standing by</p>
       <div className="grid md:grid-cols-2">
         <img
           src={ContactPhoto}
