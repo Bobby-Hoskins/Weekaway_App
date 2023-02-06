@@ -1,3 +1,5 @@
+# Weekaway
+
 ## Table of contents
 
 - [Weekaway - Vacation Package Website]
